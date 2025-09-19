@@ -14,7 +14,8 @@
     "start": "npm run cpy && refs-cli --watch",
     "cpy": "cpy 'appicon/*.png' dist/appicon",
     "prettier": "prettier --write '**/*.{mjs,css,json,prettierrc,lintstagedrc}'",
-    "markdownlint": "npx markdownlint-cli --fix ./docs/*.md"
+    "markdownlint": "npx markdownlint-cli --fix ./docs/*.md",
+    "dockerbuild": "chmod +x ./build/index.sh && ./build/index.sh"
   },
   "repository": {
     "type": "git",
