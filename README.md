@@ -58,6 +58,8 @@ Quick Reference
 [Elixir](./docs/elixir.md)<!--rehype:style=background:rgb(124 26 156);&class=contributing tag&data-lang=Elixir-->
 [Tauri](./docs/tauri.md)<!--rehype:style=background:rgb(103 214 237);&class=contributing-->
 [Claude Code](./docs/claude.md)<!--rehype:style=background:rgb(217 119 87);&class=contributing tag&data-lang=AI-->
+[Cisco 网络设备](./docs/cisco-devices.md)<!--rehype:style=background: rgb(4 159 217);&class=contributing&data-info=👆看看还缺点儿什么？-->
+[Huawei 网络设备](./docs/huawei-devices.md)<!--rehype:style=background: rgb(222 0 8);&class=contributing&data-info=👆看看还缺点儿什么？-->
 <!--rehype:class=home-card-->
 
 ## 编程
@@ -267,6 +269,13 @@ Quick Reference
 [Elasticsearch](./docs/elasticsearch.md)<!--rehype:style=background:rgb(36 187 177);-->
 [Neo4j](./docs/neo4j.md)<!--rehype:style=background:rgb(86 86 123);-->
 [SQLite](./docs/sqlite.md)<!--rehype:style=background:rgb(0 59 90);-->
+<!--rehype:class=home-card-->
+
+## 网络设备
+
+[Cisco 网络设备](./docs/cisco-devices.md)<!--rehype:style=background: rgb(4 159 217);&class=contributing&data-info=👆看看还缺点儿什么？-->
+[Huawei 网络设备](./docs/huawei-devices.md)<!--rehype:style=background: rgb(222 0 8);&class=contributing&data-info=👆看看还缺点儿什么？-->
+
 <!--rehype:class=home-card-->
 
 ## 快捷键
