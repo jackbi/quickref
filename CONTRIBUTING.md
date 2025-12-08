@@ -379,7 +379,7 @@ jobs:
 <a href="https://github.com/AmosHuKe" title="Amos"><img src="https://avatars.githubusercontent.com/u/32262985?v=4" width="42;" alt="Amos"/></a>
 <a href="https://github.com/qjksxy" title="Apin"><img src="https://avatars.githubusercontent.com/u/81305669?v=4" width="42;" alt="Apin"/></a>
 <a href="https://github.com/BlacAmDK" title="BlacAmDK"><img src="https://avatars.githubusercontent.com/u/10971397?v=4" width="42;" alt="BlacAmDK"/></a>
-<a href="https://github.com/dadatom" title="Da Da"><img src="https://avatars.githubusercontent.com/u/33886943?v=4" width="42;" alt="Da Da"/></a>
+<a href="https://github.com/KinoWard" title="Kino Ward"><img src="https://avatars.githubusercontent.com/u/33886943?v=4" width="42;" alt="Kino Ward"/></a>
 <a href="https://github.com/InkSha" title="InkSha"><img src="https://avatars.githubusercontent.com/u/79246657?v=4" width="42;" alt="InkSha"/></a>
 <a href="https://github.com/ljq" title="Jaco Liu"><img src="https://avatars.githubusercontent.com/u/7278286?v=4" width="42;" alt="Jaco Liu"/></a>
 <a href="https://github.com/jasnzhuang" title="Jason Zhuang"><img src="https://avatars.githubusercontent.com/u/16612921?v=4" width="42;" alt="Jason Zhuang"/></a>
@@ -405,7 +405,7 @@ jobs:
 <a href="https://github.com/larry-xue" title="yujian"><img src="https://avatars.githubusercontent.com/u/48818060?v=4" width="42;" alt="yujian"/></a>
 <a href="https://github.com/leauny" title="leauny"><img src="https://avatars.githubusercontent.com/u/42369176?v=4" width="42;" alt="leauny"/></a>
 <a href="https://github.com/liliangrong777" title="liliangrong777"><img src="https://avatars.githubusercontent.com/u/58727146?v=4" width="42;" alt="liliangrong777"/></a>
-<a href="https://github.com/lozhu20" title="lozhu"><img src="https://avatars.githubusercontent.com/u/44923922?v=4" width="42;" alt="lozhu"/></a>
+<a href="https://github.com/qiukuip" title="qiukuip | 秋葵Pie"><img src="https://avatars.githubusercontent.com/u/44923922?v=4" width="42;" alt="qiukuip | 秋葵Pie"/></a>
 <a href="https://github.com/lykjjj" title="lykjjj"><img src="https://avatars.githubusercontent.com/u/58510058?v=4" width="42;" alt="lykjjj"/></a>
 <a href="https://github.com/yanxuplay" title="hupilan"><img src="https://avatars.githubusercontent.com/u/69749541?v=4" width="42;" alt="hupilan"/></a>
 <a href="https://github.com/hua03" title="hua03"><img src="https://avatars.githubusercontent.com/u/19561959?v=4" width="42;" alt="hua03"/></a>
@@ -478,7 +478,7 @@ jobs:
 <a href="https://github.com/gitchenze" title="Aze"><img src="https://avatars.githubusercontent.com/u/13357869?v=4" width="42;" alt="Aze"/></a>
 <a href="https://github.com/Blanket58" title="Blanket58"><img src="https://avatars.githubusercontent.com/u/39766189?v=4" width="42;" alt="Blanket58"/></a>
 <a href="https://github.com/BobH-Official" title="BobH"><img src="https://avatars.githubusercontent.com/u/29333228?v=4" width="42;" alt="BobH"/></a>
-<a href="https://github.com/Brid9e" title="Joe"><img src="https://avatars.githubusercontent.com/u/85558909?v=4" width="42;" alt="Joe"/></a>
+<a href="https://github.com/Brid9e" title="Brid9e"><img src="https://avatars.githubusercontent.com/u/85558909?v=4" width="42;" alt="Brid9e"/></a>
 <a href="https://github.com/ch3nnn" title="chentong"><img src="https://avatars.githubusercontent.com/u/40114564?v=4" width="42;" alt="chentong"/></a>
 <a href="https://github.com/CharlotteZeng" title="hanchZ"><img src="https://avatars.githubusercontent.com/u/19461184?v=4" width="42;" alt="hanchZ"/></a>
 <a href="https://github.com/ohto-ai" title="AI"><img src="https://avatars.githubusercontent.com/u/46275725?v=4" width="42;" alt="AI"/></a>
