@@ -10,13 +10,6 @@
   <a href="https://go.warp.dev/reference"><b>Warp, the intelligent terminal for developers!</b></a><br>
   <a href="https://go.warp.dev/reference">Available for MacOS, Linux, & Windows</a><br><br>
 
-  <a href="https://tuple.app/reference">
-    <img alt="Zenquery sponsorship" width="400" src="https://jaywcjlove.github.io/sponsor/tuple.app.png">
-  </a>
-  <br>
-  <a href="https://tuple.app/reference">Tuple, the premier screen sharing app for developers on macOS and Windows.</a>
-
-  <br><br>
 </div>
 <hr>
 <!--rehype:ignore:end-->
@@ -219,6 +212,7 @@ Quick Reference
 [Tmux](./docs/tmux.md)<!--rehype:style=background:rgb(99 99 99);-->
 [Taskset](./docs/taskset.md)<!--rehype:style=background:rgb(99 99 99);-->
 [tar](./docs/tar.md)<!--rehype:style=background:rgb(215 89 62);&class=tag&data-lang=解压缩-->
+[7zip](./docs/7zip.md)<!--rehype:style=background:rgb(99 99 99);&class=tag&data-lang=解压缩-->
 [Yazi](./docs/yazi.md)<!--rehype:style=background:rgb(255 165 0);&class=tag&data-lang=文件管理器;&class=contributing-->
 [Zip](./docs/zip.md)<!--rehype:style=background:rgb(99 99 99);&class=tag&data-lang=解压缩-->
 <!--rehype:class=home-card-->
