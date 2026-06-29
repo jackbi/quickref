@@ -1,19 +1,3 @@
-<!--rehype:ignore:start-->
-<div align="center" markdown="1">
-  <sup>Special thanks to:</sup>
-  <br>
-  <br>
-  <a href="https://go.warp.dev/reference">
-    <img alt="Warp sponsorship" width="400" src="./appicon/Warp-Github-LG-01.png">
-  </a>
-  <br>
-  <a href="https://go.warp.dev/reference"><b>Warp, the intelligent terminal for developers!</b></a><br>
-  <a href="https://go.warp.dev/reference">Available for MacOS, Linux, & Windows</a><br><br>
-
-</div>
-<hr>
-<!--rehype:ignore:end-->
-
 Quick Reference
 ===
 
@@ -30,29 +14,35 @@ Quick Reference
 <!--rehype:style=padding-bottom: 23px;-->
 
 [Ansible](./docs/ansible.md)<!--rehype:style=background:rgb(238 0 0);&class=contributing tag&data-lang=RedHat&data-info=👆看看还缺点儿什么？-->
-[CMake](./docs/cmake.md)<!--rehype:style=background:rgb(92 107 192);&class=contributing-->
 [C#](./docs/cs.md)<!--rehype:style=background:rgb(6 147 13);&class=contributing-->
-[Django](./docs/django.md)<!--rehype:style=background:rgb(12 75 51);&class=contributing tag&data-lang=Python-->
-[FFmpeg](./docs/ffmpeg.md)<!--rehype:style=background:rgb(0 193 9);&class=contributing-->
 [Flask](./docs/flask.md)<!--rehype:style=background:rgb(210 168 255);&class=contributing tag&data-lang=Python-->
 [FastAPI](./docs/fastapi.md)<!--rehype:style=background:rgb(210 168 255);&class=contributing tag&data-lang=Python-->
 [Flutter](./docs/flutter.md)<!--rehype:style=background:rgb(150 220 254);&class=contributing tag&data-lang=Dart-->
 [Gitlab CI/CD](./docs/gitlab-ci.md)<!--rehype:style=background:rgb(226 67 41);&class=contributing-->
-[LaTeX](./docs/latex.md)<!--rehype:style=background:rgb(0 128 128);&class=contributing-->
 [Lua](./docs/lua.md)<!--rehype:style=background:rgb(3 3 128);&class=contributing-->
 [NestJS](./docs/nestjs.md)<!--rehype:style=background:rgb(237 21 67);&class=contributing-->
 [MATLAB](./docs/matlab.md)<!--rehype:style=background:rgb(0 118 168);&class=contributing-->
-[Oracle](./docs/oracle.md)<!--rehype:style=background:rgb(255 0 0);&class=contributing tag&data-lang=SQL-->
 [Pytorch](./docs/pytorch.md)<!--rehype:style=background:rgb(238 76 44);&class=contributing tag&data-lang=Python&data-info=👆看看还缺点儿什么？-->
 [Vue 3](./docs/vue.md)<!--rehype:style=background:rgb(64 184 131);&class=contributing-->
-[Github Copilot](./docs/github-copilot.md)<!--rehype:style=background:rgb(125 45 220);&class=tag contributing&data-lang=AI&data-info=👆看看还缺点儿什么？-->
-[Chown](./docs/chown.md)<!--rehype:style=background:rgb(12 75 51/var(\-\-bg\-opacity));&class=contributing-->
 [R 语言](./docs/r.md)<!--rehype:style=background:rgb(39 108 192);&class=contributing-->
 [Elixir](./docs/elixir.md)<!--rehype:style=background:rgb(124 26 156);&class=contributing tag&data-lang=Elixir-->
 [Tauri](./docs/tauri.md)<!--rehype:style=background:rgb(103 214 237);&class=contributing-->
-[Claude Code](./docs/claude.md)<!--rehype:style=background:rgb(217 119 87);&class=contributing tag&data-lang=AI-->
 [Cisco 网络设备](./docs/cisco-devices.md)<!--rehype:style=background: rgb(4 159 217);&class=contributing&data-info=👆看看还缺点儿什么？-->
 [Huawei 网络设备](./docs/huawei-devices.md)<!--rehype:style=background: rgb(222 0 8);&class=contributing&data-info=👆看看还缺点儿什么？-->
+<!--rehype:class=home-card-->
+
+
+## AI
+
+[AI 工具](./docs/ai-tools.md)<!--rehype:style=background:rgb(74 161 129);&class=tag&data-lang=AI-->
+[ChatGPT](./docs/chatgpt.md)<!--rehype:style=background:rgb(74 161 129);&class=tag&data-lang=AI-->
+[Codex CLI](./docs/codex-cli.md)<!--rehype:style=background:rgb(74 161 129);&class=tag&data-lang=AI-->
+[Claude Code](./docs/claude.md)<!--rehype:style=background:rgb(217 119 87);&class=tag&data-lang=AI-->
+[Cursor CLI](./docs/cursor-cli.md)<!--rehype:style=background:rgb(119 119 119);&class=tag&data-lang=AI-->
+[Gemma 4](./docs/gemma4.md)<!--rehype:style=background:rgb(87 132 217);&class=tag&data-lang=AI-->
+[Gemini CLI](./docs/gemini-cli.md)<!--rehype:style=background:rgb(217 87 96);&class=tag&data-lang=AI-->
+[Grok CLI](./docs/grok-cli.md)<!--rehype:style=background:rgb(122 87 217);&class=tag&data-lang=AI-->
+[Grok](./docs/grok.md)<!--rehype:style=background:rgb(84 84 84);&class=tag&data-lang=官方-->
 <!--rehype:class=home-card-->
 
 ## 编程
@@ -122,7 +112,7 @@ Quick Reference
 [TypeScript](./docs/typescript.md)<!--rehype:style=background:rgb(49 120 198);-->
 [Vue 2](./docs/vue2.md)<!--rehype:style=background:rgb(64 184 131);&class=tag&data-lang=Vue-->
 [Vue 3](./docs/vue.md)<!--rehype:style=background:rgb(64 184 131);&class=tag&class=contributing tag&data-lang=Vue-->
-[</> htmx](./docs/htmx.md)<!--rehype:style=background:rgb(52 101 164);&class=contributing-->
+[</> htmx](./docs/htmx.md)<!--rehype:style=background:rgb(52 101 164);-->
 [Pinia](./docs/pinia.md)<!--rehype:style=background:rgb(44 136 50);&class=tag&data-lang=Vue-->
 <!--rehype:class=home-card-->
 
@@ -154,7 +144,7 @@ Quick Reference
 [Lerna](./docs/lerna.md)<!--rehype:style=background:rgb(192 132 252);-->
 [npm](./docs/npm.md)<!--rehype:style=background:rgb(203 2 0);-->
 [NestJS](./docs/nestjs.md)<!--rehype:style=background:rgb(237 21 67);&class=contributing-->
-[PM2](./docs/pm2.md)<!--rehype:style=background:rgb(73 117 241);&class=contributing-->
+[PM2](./docs/pm2.md)<!--rehype:style=background:rgb(73 117 241);-->
 [package.json](./docs/package.json.md)<!--rehype:style=background:rgb(132 132 132);-->
 [Yarn](./docs/yarn.md)<!--rehype:style=background:rgb(33 136 182);-->
 [nvm](./docs/nvm.md)<!--rehype:style=background:rgb(132 132 132);-->
@@ -165,7 +155,7 @@ Quick Reference
 ## Python
 
 [Python](./docs/python.md)<!--rehype:style=background:rgb(43 91 132);-->
-[Django](./docs/django.md)<!--rehype:style=background:rgb(12 75 51);&class=contributing tag&data-lang=Python-->
+[Django](./docs/django.md)<!--rehype:style=background:rgb(12 75 51);&class=tag&data-lang=Python-->
 [Flask](./docs/flask.md)<!--rehype:style=background:rgb(210 168 255);&class=contributing tag&data-lang=Python-->
 [FastAPI](./docs/fastapi.md)<!--rehype:style=background:rgb(210 168 255);&class=contributing tag&data-lang=Python-->
 [Pytorch](./docs/pytorch.md)<!--rehype:style=background:rgb(238 76 44);&class=contributing tag&data-lang=Python&data-info=👆看看还缺点儿什么？-->
@@ -177,16 +167,16 @@ Quick Reference
 
 ## 命令
 
-[ADB, Android Debug Bridge](./docs/adb.md)<!--rehype:style=background:rgb(238 0 0);&class=contributing tag&data-lang=Android&data-info=👆看看还缺点儿什么？-->
+[ADB, Android Debug Bridge](./docs/adb.md)<!--rehype:style=background:rgb(238 0 0);&class=tag&data-lang=Android-->
 [Ansible](./docs/ansible.md)<!--rehype:style=background:rgb(238 0 0);&class=contributing tag&data-lang=RedHat&data-info=👆看看还缺点儿什么？-->
 [Awk](./docs/awk.md)<!--rehype:style=background:rgb(16 185 129);-->
 [Curl](./docs/curl.md)<!--rehype:style=background:rgb(16 185 129);-->
 [Chmod](./docs/chmod.md)<!--rehype:style=background:rgb(16 185 129);-->
-[Chown](./docs/chown.md)<!--rehype:style=background:rgb(12 75 51/var(\-\-bg\-opacity));&class=contributing-->
+[Chown](./docs/chown.md)<!--rehype:style=background:rgb(12 75 51/var(\-\-bg\-opacity));-->
 [Cron](./docs/cron.md)<!--rehype:style=background:rgb(239 68 68);-->
-[CMake](./docs/cmake.md)<!--rehype:style=background:rgb(92 107 192);&class=contributing-->
+[CMake](./docs/cmake.md)<!--rehype:style=background:rgb(92 107 192);-->
 [CMD](./docs/cmd.md)<!--rehype:style=background:rgb(99 99 99);-->
-[.NET CLI](./docs/dotnet-cli.md)<!--rehype:style=background:rgb(16 185 129);&class=contributing tag&data-lang=#C-->
+[.NET CLI](./docs/dotnet-cli.md)<!--rehype:style=background:rgb(16 185 129);&class=tag&data-lang=#C-->
 [Find](./docs/find.md)<!--rehype:style=background:rgb(16 185 129);-->
 [FFmpeg](./docs/ffmpeg.md)<!--rehype:style=background:rgb(0 193 9);&class=contributing-->
 [FTP](./docs/ftp.md)<!--rehype:style=background:rgb(99 99 99);-->
@@ -213,14 +203,12 @@ Quick Reference
 [Taskset](./docs/taskset.md)<!--rehype:style=background:rgb(99 99 99);-->
 [tar](./docs/tar.md)<!--rehype:style=background:rgb(215 89 62);&class=tag&data-lang=解压缩-->
 [7zip](./docs/7zip.md)<!--rehype:style=background:rgb(99 99 99);&class=tag&data-lang=解压缩-->
-[Yazi](./docs/yazi.md)<!--rehype:style=background:rgb(255 165 0);&class=tag&data-lang=文件管理器;&class=contributing-->
+[Yazi](./docs/yazi.md)<!--rehype:style=background:rgb(255 165 0);&class=tag&data-lang=文件管理器-->
 [Zip](./docs/zip.md)<!--rehype:style=background:rgb(99 99 99);&class=tag&data-lang=解压缩-->
 <!--rehype:class=home-card-->
 
 ## 工具
 
-[ChatGPT](./docs/chatgpt.md)<!--rehype:style=background:rgb(74 161 129);&class=tag&data-lang=AI-->
-[Claude Code](./docs/claude.md)<!--rehype:style=background:rgb(217 119 87);&class=tag&data-lang=AI-->
 [Emacs](./docs/emacs.md)<!--rehype:style=background:rgb(98 36 134);-->
 [Linux Command](./docs/linux-command.md)<!--rehype:style=background:rgb(215 89 62);&class=tag&data-lang=命令速查-->
 [Mitmproxy](./docs/mitmproxy.md)<!--rehype:style=background:rgb(4 92 135);-->
@@ -270,42 +258,55 @@ Quick Reference
 
 [Cisco 网络设备](./docs/cisco-devices.md)<!--rehype:style=background: rgb(4 159 217);&class=contributing&data-info=👆看看还缺点儿什么？-->
 [Huawei 网络设备](./docs/huawei-devices.md)<!--rehype:style=background: rgb(222 0 8);&class=contributing&data-info=👆看看还缺点儿什么？-->
-
 <!--rehype:class=home-card-->
 
-## 快捷键
+## 快捷键 - 创意设计
 
 [Adobe Lightroom](./docs/adobe-lightroom.md)<!--rehype:style=background: rgb(49 168 255);-->
 [Adobe Photoshop](./docs/adobe-photoshop.md)<!--rehype:style=background: rgb(49 168 255);-->
+[Adobe Illustrator](./docs/adobe-illustrator.md)<!--rehype:style=background: rgb(255 154 0);-->
 [Adobe XD](./docs/adobe-xd.md)<!--rehype:style=background: rgb(255 97 246);-->
-[Android Studio](./docs/android-studio.md)<!--rehype:style=background: rgb(16 185 129);-->
+[Adobe After Effects](./docs/adobe-ae.md)<!--rehype:style=background: rgb(111 111 228);-->
+[Adobe Premiere](./docs/adobe-pr.md)<!--rehype:style=background: rgb(111 111 228);-->
 [Blender](./docs/blender.md)<!--rehype:style=background: rgb(16 185 129);-->
-[Firefox](./docs/firefox.md)<!--rehype:style=background: rgb(253 53 76);-->
-[Finder](./docs/finder.md)<!--rehype:style=background: rgb(253 53 76);&class=tag&data-lang=macOS-->
+[CorelDRAW](./docs/coreldraw.md)<!--rehype:style=background: rgb(16 185 129);-->
 [Figma](./docs/figma.md)<!--rehype:style=background: rgb(147 90 238);-->
-[Gmail](./docs/gmail.md)<!--rehype:style=background: rgb(234 67 54);-->
-[Gitlab](./docs/gitlab.md)<!--rehype:style=background: rgb(226 67 41);-->
-[Google Chrome](./docs/google-chrome.md)<!--rehype:style=background: rgb(29 116 232);-->
+[Sketch](./docs/sketch.md)<!--rehype:style=background: rgb(223 148 0);&class=tag&data-lang=macOS-->
+<!--rehype:class=home-card-->
+
+## 快捷键 - 开发工具 / IDE
+
+[Android Studio](./docs/android-studio.md)<!--rehype:style=background: rgb(16 185 129);-->
 [IntelliJ IDEA](./docs/intelli-j-idea.md)<!--rehype:style=background: rgb(223 148 0);&class=tag&data-lang=Java-->
 [PyCharm](./docs/pycharm.md)<!--rehype:style=background: rgb(36 215 137);&class=tag&data-lang=Python-->
 [PhpStorm](./docs/phpstorm.md)<!--rehype:style=\-\-bg\-opacity: 0.75;background-image: linear-gradient(to left, rgba(255 106 172 / var(\-\-bg\-opacity)), rgba(183 173 255 / var(\-\-bg\-opacity)));-->
-[Sketch](./docs/sketch.md)<!--rehype:style=background: rgb(223 148 0);&class=tag&data-lang=macOS-->
 [Sublime Text](./docs/sublime-text.md)<!--rehype:style=background: rgb(223 148 0);-->
-[Vimium](./docs/vimium.md)<!--rehype:style=background: rgb(49 168 255);&class=contributing&class=tag&data-lang=浏览器插件-->
 [VSCode](./docs/vscode.md)<!--rehype:style=background: rgb(91 163 230);-->
-[Twitter(X)](./docs/twitter.md)<!--rehype:style=background: rgb(91 163 230);-->
 [WebStorm](./docs/webstorm.md)<!--rehype:style=background: rgb(32 148 220);-->
 [Xcode](./docs/xcode.md)<!--rehype:style=background: rgb(24 151 233);&class=tag&data-lang=macOS-->
 [Zed](./docs/zed.md)<!--rehype:style=background: rgb(71 71 71);-->
 <!--rehype:class=home-card-->
 
+## 快捷键 - 其它
+
+[Firefox](./docs/firefox.md)<!--rehype:style=background: rgb(253 53 76);-->
+[Google Chrome](./docs/google-chrome.md)<!--rehype:style=background: rgb(29 116 232);-->
+[Vimium](./docs/vimium.md)<!--rehype:style=background: rgb(49 168 255);&class=contributing&class=tag&data-lang=浏览器插件-->
+[Finder](./docs/finder.md)<!--rehype:style=background: rgb(253 53 76);&class=tag&data-lang=macOS-->
+[Gmail](./docs/gmail.md)<!--rehype:style=background: rgb(234 67 54);-->
+[Gitlab](./docs/gitlab.md)<!--rehype:style=background: rgb(226 67 41);-->
+[Twitter(X)](./docs/twitter.md)<!--rehype:style=background: rgb(91 163 230);-->
+<!--rehype:class=home-card-->
+
 ## 其它
 
-[Quick Reference](./docs/quickreference.md)<!--rehype:style=background: rgb(0 182 122);&class=tag&data-lang=排版说明-->
+[Quick Reference](./docs/quickreference.md)<!--rehype:style=\-\-bg\-opacity: 0.75;background-image: linear-gradient(to left, rgba(108 223 95 / var(--bg-opacity)), rgba(51 195 253 / var(--bg-opacity)));&class=tag&data-lang=排版说明-->
 [Aspect Ratio](./docs/aspect-ratio.md)<!--rehype:style=background: rgb(16 185 129);-->
 [ASCII Code](./docs/ascii-code.md)<!--rehype:style=background: rgb(16 185 129);-->
+[Excel 函数](./docs/excel-fn.md)<!--rehype:style=background: rgb(16 185 129);-->
 [Symbol Code](./docs/symbol-code.md)<!--rehype:style=background: rgb(16 185 129);-->
 [Colors Named](./docs/colors-named.md)<!--rehype:style=background: rgb(16 185 129);&class=tag&data-lang=CSS-->
+[Google Search](./docs/google-search.md)<!--rehype:style=background: rgb(16 185 129);-->
 [HTTP 状态码](./docs/http-status-code.md)<!--rehype:style=background: rgb(16 185 129);-->
 [HTML 字符实体](./docs/html-char.md)<!--rehype:style=background: rgb(16 185 129);&class=tag&data-lang=HTML-->
 [ISO-3166 国家代码](./docs/iso-3166-1.md)<!--rehype:style=background: rgb(16 185 129);-->

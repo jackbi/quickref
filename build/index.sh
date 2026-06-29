@@ -5,7 +5,7 @@
  # @Author: wenbin
  # @Date: 2025-09-19 11:48:27
  # @LastEditors: wenbin
- # @LastEditTime: 2025-09-19 11:58:06
+ # @LastEditTime: 2026-06-29 14:45:05
  # @FilePath: /quickref/build/index.sh
  # Copyright (C) 2025 wenbin. All rights reserved.
 ###
@@ -22,4 +22,4 @@ docker rm quickref
 echo "容器删除完成..."
 
 docker run -d -p 11001:11001 --name quickref quickref:latest
-echo "容器启动完成..."
+echo "容器启动完成..."·
